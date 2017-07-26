@@ -236,21 +236,21 @@ const styles = StyleSheet.create({
     highScore: {
         flex: 3,
         margin: 5,
-        backgroundColor: 'red',
+        backgroundColor: '#E41B17',
         alignItems: 'center',
        
     },
     timeCount: {
         flex: 2,
         margin: 5,
-        backgroundColor: 'red',
+        backgroundColor: '#87F717',
         alignItems: 'center',
      
     },
     currentScore: {
         flex: 3,
         margin: 5,
-          backgroundColor: 'red',
+          backgroundColor: '#FFCBA4',
         alignItems: 'center',
        
     },
@@ -263,7 +263,7 @@ const styles = StyleSheet.create({
         flex: 1,
        
         margin: 10,
-        backgroundColor: 'red'
+        backgroundColor: '#00FFFF'
     },
     hole: {
         flex: 1,
